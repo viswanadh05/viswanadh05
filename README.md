@@ -1,7 +1,8 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**viswanadh05/viswanadh05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+</div>
 
 Here are some ideas to get you started:
 
