@@ -36,7 +36,7 @@ I'm a Ex-HCL Software Engineer with 2.5+ years of experience in development, sup
 
 - ☝️  Interested to learn about **Cloud technologies**, **Artificial Intelligence**, **API development** and **Technology advancements**
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Viswanadh%20Bhaskarla-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viswanadh-bhaskarla/) [![Yahoo! Badge](https://img.shields.io/badge/-Yahoomail-purple?logo=Yahoo!&logoColor=white&style=plastic)]()
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Viswanadh%20Bhaskarla-blue?style=plastic&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/viswanadh-bhaskarla/) [![Yahoo! Badge](https://img.shields.io/badge/-Yahoomail-purple?logo=Yahoo!&logoColor=white&style=plastic)](mailto:viswanadh.bhaskarla@yahoo.com)
 
 <br>
 
