@@ -22,7 +22,7 @@ I'm a Ex-HCL Software Engineer with 2.5+ years of experience in development, sup
 
 **:man_technologist: About Me:**
 
-- 🔎 Actively looking for my next role **Software Engineer/Developer** in Sydney
+- 🔎 Actively looking for my next role **Software Engineer/Developer** in Melbourne & Sydney
 
 - 🔭 I’m currently working with [Code.Sydney](https://github.com/codesydney) on [jrdev](https://github.com/codesydney/jrdev) project and my own project [Spring-boot-crypto-price-tracker](https://github.com/viswanadh05/spring-boot-crypto-price-tracker)
 
